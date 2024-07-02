@@ -1,0 +1,64 @@
+{
+    "name": "Spike",
+
+    "karma": 0,
+
+    "metatype": {
+        "name":"Orc"
+        
+    },
+
+    "attributes": {
+        "body": 5,
+        "agility": 3,
+        "reaction": 3,
+        "strength": 4,
+        "willpower": 2,
+        "logic": 1,
+        "intuition": 3,
+        "charisma": 2,
+        "edge": 3,
+        "magic": 6,
+        "resonance": 0
+    },
+
+    "skills": {
+        "pistols": 3,
+        "unarmed_combat": 5
+    },
+
+    "inventory": [
+        {
+            "name": "pocket lint"
+        },
+
+        {
+            "name": "stick of gum"
+        }
+            
+    ],
+
+    "equipment": {
+        "weapon": {
+            "name": "Ares Predator V",
+            "nickname": "Betsy",
+            "description": "The newest iteration of the most powerful handgun in the world...",
+            "weight": 4,
+            "slot": "weapon",
+            "value": 725,
+            "accuracy": 5,
+            "base_damage": 9,
+            "damage_type": "physical",
+            "type": "heavy pistol",
+            "mods": ["smartlink"],
+            "armor_piercing": 1,
+            "relevant_skill": "pistols"
+        },
+        
+        "armor": {
+            "name": "Synthleather Jacket", 
+            "armor_rating": 4,
+            "slot": "armor"
+        }
+    }
+}

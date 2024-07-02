@@ -1,0 +1,8 @@
+[*.{cs,vb}]
+
+# IDE0003: Remove qualification
+dotnet_diagnostic.IDE0003.severity = silent
+[*.{cs,vb}]
+
+# IDE0003: Remove qualification
+dotnet_diagnostic.IDE0003.severity = none

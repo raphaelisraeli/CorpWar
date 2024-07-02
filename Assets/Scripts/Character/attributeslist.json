@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Endurance",
+        "description": "Represents the overall health, stamina, and resilience of the character. Endurance contributes to the character's maximum hit points, resistance to fatigue, and ability to endure physical strain."
+    },
+    {
+        "name": "Agility",
+        "description": "Represents the nimbleness, dexterity, and overall coordination of the character. Agility affects the character's movement speed, dodging ability, and ranged attack accuracy."
+    },
+    {
+        "name": "Reflexes",
+        "description": "Represents the speed of reaction, agility, and quick thinking of the character. Reflexes affect the character's ability to react swiftly to sudden events, dodge incoming attacks, and perform actions requiring quick thinking."
+    },
+    {
+        "name": "Strength",
+        "description": "Represents the physical power and muscle of the character. Strength directly influences the melee damage bonus and carrying capacity of the character."
+    },
+    {
+        "name": "Willpower",
+        "description": "Represents the mental strength, determination, and force of character of the character. Willpower affects the character's resistance to mental influence, ability to resist fear and intimidation, and strength of mind."
+    },
+    {
+        "name": "Logic",
+        "description": "Represents the reasoning ability, problem-solving skills, and analytical thinking of the character. Logic influences the character's ability to analyze situations, solve puzzles, and understand complex systems."
+    },
+    {
+        "name": "Perception",
+        "description": "Represents the awareness, sensory acuity, and observational skills of the character. Perception influences the character's ability to notice details, detect hidden objects or creatures, and perceive changes in their environment."
+    },
+    {
+        "name": "Charisma",
+        "description": "Represents the charm, persuasiveness, and social influence of the character. Charisma influences the character's ability to interact with others, negotiate deals, and lead or inspire followers."
+    },
+    {
+        "name": "Magic",
+        "description": "Represents basic Magical potential."
+    },
+    {
+        "name": "Attack",
+        "description": "A Matrix attribute representing offensive computational power"
+    },
+    {
+        "name": "Sleaze",
+        "description": "A Matrix attribute representing stealth and subterfuge."
+    },
+    {
+        "name": "Firewall",
+        "description": "A Matrix attribute representing strength integrated Matrix defense systems."
+    }
+]

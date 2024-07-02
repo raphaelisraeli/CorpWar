@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Handguns",
+        "description": "Proficiency in the use of handguns. Handguns skill affects accuracy and damage with handguns.",
+        "category": "Combat",
+        "relevantAttribute": "Agility"
+    },
+    {
+        "name": "Automatics",
+        "description": "Proficiency in the use of automatic firearms. Automatics skill affects accuracy and damage with automatic weapons.",
+        "category": "Combat",
+        "relevantAttribute": "Agility"
+    },
+    {
+        "name": "Shotguns",
+        "description": "Proficiency in the use of shotguns. Shotguns skill affects accuracy and damage with shotguns.",
+        "category": "Combat",
+        "relevantAttribute": "Strength"
+    },
+    {
+        "name": "Melee",
+        "description": "Proficiency in the use of melee weapons.",
+        "category": "Combat",
+        "relevantAttribute": "Agility"
+    },
+    {
+        "name": "Rifles",
+        "description": "Proficiency in the use of rifles. Rifles skill affects accuracy and damage with rifles.",
+        "category": "Combat",
+        "relevantAttribute": "Agility"
+    },
+    {
+        "name": "Heavy Weapons",
+        "description": "Proficiency in the use of heavy weapons such as machine guns and rocket launchers. Heavy Weapons skill affects accuracy and damage with heavy weapons.",
+        "category": "Combat",
+        "relevantAttribute": "Strength"
+    },
+    {
+        "name": "Explosives",
+        "description": "Knowledge and skill in handling and using explosives. Explosives skill determines success in using explosive devices and setting traps.",
+        "category": "Technical",
+        "relevantAttribute": "Logic"
+    },
+    {
+        "name": "Hacking",
+        "description": "Ability to breach computer systems and networks. Hacking skill determines success in hacking attempts and the complexity of systems that can be accessed.",
+        "category": "Technical",
+        "relevantAttribute": "Logic"
+    },
+    {
+        "name": "Cybercombat",
+        "description": "Skill in combat within virtual environments. Cybercombat skill affects success in virtual combat and the ability to defend against hacking attacks.",
+        "category": "Technical",
+        "relevantAttribute": "Logic"
+    },
+    {
+        "name": "Cybersecurity",
+        "description": "Knowledge and skill in defending computer systems and networks. Cybersecurity skill determines success in defending against hacking attempts and the complexity of security measures that can be implemented.",
+        "category": "Technical",
+        "relevantAttribute": "Logic"
+    },
+    {
+        "name": "Rigging",
+        "description": "Proficiency in controlling drones and vehicles remotely. Rigging skill affects the control and effectiveness of drones and vehicles operated remotely.",
+        "category": "Technical",
+        "relevantAttribute": "Logic"
+    },
+    {
+        "name": "Conjuring",
+        "description": "Skill in summoning and controlling spirits. Conjuring skill determines the effectiveness and control of summoned spirits.",
+        "category": "Mystical",
+        "relevantAttribute": "Willpower"
+    },
+    {
+        "name": "Binding",
+        "description": "Skill in controlling and binding summoned spirits. Binding skill affects the ability to compel and control summoned spirits, ensuring their obedience and preventing them from acting against the summoner's will.",
+        "category": "Mystical",
+        "relevantAttribute": "Charisma"
+    },   
+    {
+        "name": "Rituals",
+        "description": "Knowledge and skill in performing magical rituals. Rituals skill determines success in performing magical rituals and the complexity of rituals that can be performed.",
+        "category": "Mystical",
+        "relevantAttribute": "Logic"
+    },
+    {
+        "name": "Deception",
+        "description": "Ability to deceive others and manipulate situations. Deception skill affects success in lying, disguising, and manipulating others.",
+        "category": "Social",
+        "relevantAttribute": "Charisma"
+    },
+    {
+        "name": "Negotiation",
+        "description": "Ability to negotiate effectively and persuade others. Negotiation skill affects success in bargaining, persuading, and reaching agreements.",
+        "category": "Social",
+        "relevantAttribute": "Charisma"
+    },
+    {
+        "name": "First Aid",
+        "description": "Knowledge and skill in providing medical assistance. First Aid skill determines the effectiveness of medical treatment and the ability to stabilize wounded characters.",
+        "category": "Technical",
+        "relevantAttribute": "Logic"
+    },
+    {
+        "name": "Stealth",
+        "description": "Ability to move undetected and avoid detection. Stealth skill affects success in sneaking past enemies and remaining hidden.",
+        "category": "Technical",
+        "relevantAttribute": "Agility"
+    }
+]

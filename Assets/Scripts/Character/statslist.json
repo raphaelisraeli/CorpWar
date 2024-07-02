@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Hit Points",
+        "description": "Represents the amount of damage a character can take before falling unconscious or dying.",
+        "formula": "100 + Endurance * 5"
+    },
+    {
+        "name": "Morale",
+        "description": "Represents the mental fortitude and morale of the character, determining their ability to resist fear and intimidation.",
+        "formula": "100 + Willpower * 5"
+    },
+    {
+        "name": "Reaction",
+        "description": "Determines how quickly a character reacts to perceived threats and player commands. A higher Reaction stat results in a smaller reaction time.",
+        "formula": "1100 - 100 * Reflexes"
+    },
+    {
+        "name": "Walking Speed",
+        "description": "Determines how fast a character can walk. Higher Agility results in faster walking speed, measured in meters per second (m/s).",
+        "formula": "1.4 + 0.2 * (Agility - 5)"
+    },
+    {
+        "name": "Running Speed",
+        "description": "Determines how fast a character can run. Higher Agility results in faster running speed, measured in meters per second (m/s).",
+        "formula": "5.0 + 0.5 * (Agility - 5)"
+    },
+    {
+        "name": "Carry Weight",
+        "description": "Determines how much weight a character can carry comfortably on their back. Higher Strength results in greater carrying capacity, measured in kilograms (kg).",
+        "formula": "5 + (Strength - 1) * 11"
+    },
+    {
+        "name": "Awareness",
+        "description": "Represents the character's ability to notice details and detect hidden objects or creatures. Higher Perception increases awareness.",
+        "formula": "Perception * 10"
+    },
+    {
+        "name": "Evasion",
+        "description": "Determines how effectively a character can avoid attacks. Higher Reflexes result in better evasion.",
+        "formula": "Reflexes * 5"
+    },
+    {
+        "name": "Melee Bonus",
+        "description": "Represents the bonus damage a character deals in melee combat. Higher Strength increases melee damage.",
+        "formula": "Strength"
+    }
+]

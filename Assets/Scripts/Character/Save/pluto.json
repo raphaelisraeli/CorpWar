@@ -1,0 +1,58 @@
+{
+    "name": "Pluto",
+
+    "karma": 0,
+
+    "metatype": {
+        "name":"Elf"
+    },
+
+    "attributes": {
+        "body": 3,
+        "agility": 6,
+        "reaction": 4,
+        "strength": 3,
+        "willpower": 2,
+        "logic": 5,
+        "intuition": 3,
+        "charisma": 3,
+        "edge": 5,
+        "magic": 0,
+        "resonance": 0
+    },
+        
+    "skills": {
+        "longarms": 6,  
+        "unarmed_combat": 1 
+    }, 
+        
+    "inventory": [
+        {
+            "name": "credstick"
+        },
+
+        {
+            "name": "commlink"
+        }            
+    ],
+
+    "equipment": {
+        "weapon":{
+            "name": "Yamaha Raiden",
+            "description": "This electronic-firing assault rifle is state-of-the-art. The Raiden is very accurate and is quickly being adopted by japanacorp security forces and the Japanese Imperial Marines. It features an integral sound suppressor and smartgun system, and the electronic firing mechanism and design provides 1 point of Recoil Compensation.",
+            "weight": 4,
+            "slot": "weapon",  
+            "value": 2600,  
+            "accuracy": 6,
+            "base_damage": 11,
+            "damage_type": "physical",
+            "armor_piercing": 2,
+            "firing_modes": ["burst_fire", "full_auto"],
+            "recoil_comp": 1,
+            "magazine_size": 60,
+            "magazine_type": "clip",
+            "relevant_skill": "longarms"
+        
+        }
+    }
+}
